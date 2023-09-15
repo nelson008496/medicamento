@@ -3,7 +3,7 @@
     <q-header elevated>
       <q-toolbar>
         <q-toolbar-title class="col-12 text-h5 text-center" >
-          Facil_Medicar
+          Facil_Morrer
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
